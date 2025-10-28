@@ -1,6 +1,6 @@
 # Luis GAB
 
-##Desarrollo de aplicaciones multiplataforma##
+##Desarrollo de aplicaciones multiplataforma
 
 ¡Hola! Soy estudiante de CuatroVientos.
 Estoy estudiando:
